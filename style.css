@@ -1,0 +1,66 @@
+
+body{
+    font-family: 'Noto Sans KR', sans-serif;;
+}
+h1{
+    font-size: 50px;
+}
+.highlight{
+            color: rgba(255, 17, 0, 0.466);
+}
+.link-button{
+    padding: 10px 20px;
+    background-image: linear-gradient:lightSalmon,tomato;
+    background-color:orange;
+    border-radius:5px;
+}
+.half-width{
+             width: 40%;
+             float: left;
+             margin-left: 100px;
+             padding-left: 10px;
+}
+.half-width img{
+
+   width:70%
+}
+section{
+        height: 300px;
+        padding-bottom: 150px;
+}
+
+.card{
+    width: 300px;
+    margin: 1px;
+    float: left;
+    
+  
+.img-style{
+    width: 60%;
+   
+    
+.card-body{
+          
+            background-color: cadetblue;
+           
+}
+
+
+
+.card-container{
+    background-color: chartreuse;
+    box-sizing:border-box;
+
+}
+#style{
+    width: 20px;
+    height: 20px;
+}
+.card-2{
+    box-sizing: border-box;
+    width: 50px;
+    height: 40px;
+    padding: 5px;
+    margin: 20px 30px;
+}
+       
